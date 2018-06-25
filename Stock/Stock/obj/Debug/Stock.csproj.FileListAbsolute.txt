@@ -1,0 +1,12 @@
+c:\users\nandishta\source\repos\Stock\Stock\bin\Debug\Stock.exe.config
+c:\users\nandishta\source\repos\Stock\Stock\bin\Debug\Stock.exe
+c:\users\nandishta\source\repos\Stock\Stock\bin\Debug\Stock.pdb
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.Login.resources
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.StockMain.resources
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.exe
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.pdb
+c:\users\nandishta\source\repos\Stock\Stock\obj\Debug\Stock.Product.resources
